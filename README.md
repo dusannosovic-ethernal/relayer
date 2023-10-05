@@ -10,7 +10,9 @@ Relayer is a tool designed to communicate with blockchain network through transa
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Usage](#usage)
-    -[Configuring and using Relayer](#configuring-and-using-relayer)   
+  - [Configuring and using Relayer](#configuring-and-using-relayer)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 
 ## Introduction
