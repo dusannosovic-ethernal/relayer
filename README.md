@@ -1,4 +1,4 @@
-# relayer
+# Relayer
 
 Relayer is a tool designed to communicate with blockchain network through transactions. Whenher you're deploying smart contracts, deposit or withdraw tokens, funding account. Relayer simplifies the process of sending transaction to blockhain.
 
